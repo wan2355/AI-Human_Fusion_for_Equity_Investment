@@ -1,0 +1,83 @@
+Noncommercial No-Redistribution License 1.0 (NNRL-1.0)
+LicenseRef-NNRL-1.0
+
+Contributor: yd55
+Source Code: https://github.com/wan2355/AI-Human_Fusion_for_Equity_Investment
+Contact:     mygit@healing.sakura.ne.jp
+
+0. Summary (non-binding)
+This is a source-available license for personal, noncommercial use only.
+You may install, run, and modify the Software for your own use, but you
+may not redistribute it or make it available to any third parties.
+Commercial use requires a separate paid license from the Contributor.
+
+1) Definitions
+“Software” means the source code and accompanying files in this repository.
+“Noncommercial Use” means use that is not intended for or directed toward
+commercial advantage or monetary compensation, including personal study,
+research, teaching, evaluation, and use by non-profit entities.
+“Redistribute” or “Redistribution” means any act of making the Software
+(or derivative works) available to any third party, by any means, including
+but not limited to copying, transferring, publishing to public or private
+repositories, forking, creating gists, packaging, hosting as a network
+service or SaaS, embedding in products, or otherwise providing access
+beyond your own devices or private accounts you control alone.
+
+2) Copyright License (Noncommercial, No-Redistribution)
+Subject to this License, the Contributor grants you a worldwide,
+royalty-free, non-exclusive license to reproduce and modify the Software
+solely for your Noncommercial Use on devices or private accounts you own
+or control. You may make a reasonable number of backup copies for that
+purpose. This License does not grant any right to Redistribute.
+
+3) Patent License (Noncommercial Only)
+Subject to this License, the Contributor grants you a worldwide,
+royalty-free, non-exclusive patent license to make, have made, use, and
+import the Software solely for your Noncommercial Use. No patent license
+is granted for any Redistribution or Commercial Use.
+
+4) Prohibitions
+You must not: (a) Redistribute the Software or any derivative work;
+(b) use the Software for Commercial Use; (c) sublicense; (d) remove or
+obfuscate copyright, license, or attribution notices; (e) use any trade
+name, logo, or trademark of the Contributor.
+
+5) Notices (for your copies)
+For any copies you make for your own Noncommercial Use, retain this
+License text and any NOTICE file intact in the repository or folder that
+contains the Software.
+
+6) Optional Written Permission
+If the Contributor gives you prior written permission to Redistribute
+despite Section 4(a), that permission will specify the scope. In that case,
+you must: (i) include this License in full, (ii) keep all notices, and
+(iii) clearly mark modified files as modified and summarize changes in
+README or CHANGELOG. You must also notify the Contributor within 14 days
+via the Contact above or by opening a public issue in the Source Code
+repository. Absent such written permission, Redistribution remains
+prohibited.
+
+7) Warranty Disclaimer
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND.
+
+8) Limitation of Liability
+IN NO EVENT SHALL THE CONTRIBUTOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR
+OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE,
+ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THIS LICENSE.
+
+9) Termination and Cure
+This License terminates automatically if you breach it. Your license is
+conditionally reinstated if you cease violation and, within 30 days of
+learning of the violation, take reasonable steps to cure and notify the
+Contributor. Termination does not limit any other rights or remedies.
+
+10) Severability; Entire Agreement
+If any provision is unenforceable, the remainder remains in effect. This
+License is the entire agreement for the licensed rights and supersedes
+prior terms.
+
+-- Non-binding Japanese guide（参考・法的効力なし） --
+本ライセンスは「個人・非商用での使用と改変のみ」を許可し、第三者への
+配布・公開（再配布）を一切禁止します。商用利用は別途有償許諾が必要です。
+（書面許可がある場合のみ、変更点の明示・通知義務が生じます。保証はありません。）
+
