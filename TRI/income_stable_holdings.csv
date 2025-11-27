@@ -1,0 +1,7 @@
+ticker,market,units,avg_price_jpy,div_yield_now,target_yield,fx_risk,role,comment
+9286.T,jp,7,85900,0.07,0.07,low,L2_core,"インフラファンド・2030頃まで基本ホールド"
+JEPI,us,32,9000,0.08,0.07,med,L2_core,"毎月分配・為替リスク中・下落時買い増し候補"
+JEPQ,us,53,9200,0.09,0.08,med_high,L2_core_plus,"配当高め・価格変動やや大きい"
+GLDM,us,126,13000,0.00,0.00,med,L1_hedge,"金ETF・為替込みヘッジ。配当はゼロ"
+QQQI,us,1,8000,0.08,0.07,med,L2_satellite,"小口カバコETF・実験枠"
+

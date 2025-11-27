@@ -1,0 +1,50 @@
+{
+  "fetch": {
+    "interval": "1h",
+    "period": "1mo",
+    "bb_months": 3
+  },
+  "tickers": {
+    "4063.T": "信越化学",
+    "5713.T": "住友鉱山",
+    "6339.T": "新東工業",
+    "^N225": "日経225先物",
+    "^VIX": "恐怖指数（VIX）",
+    "^DJI": "ダウ平均指数",
+    "^GSPC": "SP500",
+    "SPY": "SPY",
+    "^NDX": "NASDAQ100",
+    "^IXIC": "NASDAQ総合",
+    "^RUT": "Russell_2000",
+    "GLDM": "Gold",
+    "1540.T": "Gold",
+    "2914.T": "JT",
+    "8058.T": "三菱商事",
+    "8316.T": "三井住友F",
+    "1496.T": "USD投資適格社債ETF(H)",
+    "2866.T": "GX米国優先証券",
+    "1329.T": "日経225ETF",
+    "1489.T": "日経平均高配当ETF",
+    "1540.T": "純金上場信託（1540）",
+    "LITE": "LITE",
+    "IREN": "IREN",
+    "NBIS": "NBIS",
+    "BE": "BE",
+    "JEPQ": "JEPQ",
+    "NVDA": "Nvidia",
+    "MSFT": "MSFT"
+  },
+  "scan_buy_signal": {
+    "enabled": true
+  },
+  "bollinger": {
+    "enabled": true,
+    "rsi_warn": 35,
+    "rsi_hard": 30,
+    "earnings_window": 5
+  },
+  "hy_vix": {
+    "enabled": true
+  }
+}
+

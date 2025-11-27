@@ -1,0 +1,28 @@
+{
+  "timestamp": "20251127_121804",
+  "input_csv": "/mnt/g/0-data/nakamura/00_new/03_SP500_vix_US_High_Yield_spread/000_my_py_check_add_TRI/TRI/candidate_tri6.csv",
+  "default_win_prob": 0.35,
+  "jp_adjust": 0.05,
+  "rr_ratio_global": 2.0,
+  "tri5_threshold": 400.0,
+  "base_dir": "/mnt/g/0-data/nakamura/00_new/03_SP500_vix_US_High_Yield_spread/000_my_py_check_add_TRI/TRI/res_qg_selection",
+  "result_dir": "/mnt/g/0-data/nakamura/00_new/03_SP500_vix_US_High_Yield_spread/000_my_py_check_add_TRI/TRI/res_qg_selection/res_eg_selc_20251127_121804_tri6_run_01",
+  "note": "win_prob は CSV の win_prob 列が優先。なければ default_win_prob + (market が jp のとき jp_adjust)。R/R は rr_ratio 列が優先。なければ rr_ratio_global を使用。",
+  "required_columns": [
+    "ticker",
+    "market",
+    "prep_time_min",
+    "period_months",
+    "loss_amount"
+  ],
+  "optional_columns": [
+    "win_prob",
+    "rr_ratio",
+    "win_amount",
+    "risk_span",
+    "comment"
+  ],
+  "output_files": [
+    "/mnt/g/0-data/nakamura/00_new/03_SP500_vix_US_High_Yield_spread/000_my_py_check_add_TRI/TRI/res_qg_selection/res_eg_selc_20251127_121804_tri6_run_01/result_20251127_121804.csv"
+  ]
+}
