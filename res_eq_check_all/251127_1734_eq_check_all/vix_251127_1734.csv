@@ -1,2 +1,0 @@
-ticker,close,stress_v,shk_act,shk_F,shk_stat,zscore,signal,dahs_v,regime_v,vwap20,vp_poc,pct_1d,rsi,name,vix_level
-^VIX,17.2,0.4433,hold,NORMAL,OK,-0.923,HOLD,0,2.0,,,-0.0738,18.89,恐怖指数（VIX）,VIX_NORMAL
