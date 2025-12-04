@@ -4,17 +4,16 @@
 This project explores the synergy between AI algorithms and human decision-making for equity investment strategies.
 
 ## Features
-- Monte Carlo simulation for portfolio risk analysis
 - AI-driven optimization combined with human heuristics
-- Visualization of performance metrics
+- Evaluate performance using original metrics.
 
 ## 日本語概要
 AIアルゴリズムと人間の判断を融合し、株式投資戦略の最適化を目指すプロジェクトです。
 
 ### 特徴
-- モンテカルロシミュレーションによるリスク分析
-- AIによる最適化＋人間の経験則の組み合わせ
-- パフォーマンス指標の可視化
+- yahoo-fineceのdataを用いたテクニカル分析+human-factorで評価し、注目している銘柄のうちその日に最適な銘柄を選ぶ。
+- AIによる最適化＋人間の経験則の組み合わせ。
+- 独自の指標による評価。
 
 ## Installation
 ```bash
@@ -23,6 +22,9 @@ cd ai-human-fusion-equity-investment
 pip install -r requirements.txt
 ```
 
+
+
+
 ## License
-MIT
+NNRL-1.0
 

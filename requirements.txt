@@ -1,0 +1,14 @@
+json
+pathlib
+argparse
+datetime
+pathlib
+numpy
+pandas
+matplotlib
+math
+cvs
+typing
+tqdm
+yfinance
+functools
