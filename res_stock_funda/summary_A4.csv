@@ -1,0 +1,5 @@
+Ticker,Company,MaxYear,WindowYears,ActualWindowYears,Score_CYCLE,Rating_CYCLE,Score_SW,Rating_SW,Score_HW,Rating_HW,EBIT/Rev_Avg,EBIT/Rev_Min,FCF/Rev_Avg,FCF/Rev_Min,CapEx/Rev_Avg,SBC/Rev_Avg,Rev_CAGR,MktCap_B_Latest,MC/Rev,MC/FCF,MC/OwnerFCF,PEG_PS_Latest,PEG_OwnerFCF_Latest
+NVDA,NVIDIA CORP,2024,5,5,100,A,68,C,100,A,0.216,0.069,,,,0.049,0.693,,,,,,
+PLTR,Palantir Technologies Inc.,2024,5,5,69,C,91,A,32,E,-0.253,-1.074,0.146,-0.283,0.010,0.484,0.273,442.580,0.000,0.000,0.000,0.000,
+LITE,Lumentum Holdings Inc.,2024,5,5,63,C,56,C,71,B,-0.045,-0.319,0.135,-0.080,0.068,0.073,-0.079,,,,,,
+MU,"Micron Technology, Inc.",2024,5,5,33,E,26,E,70,B,0.056,-0.370,-0.050,-0.394,0.396,0.025,-0.032,,,,,,

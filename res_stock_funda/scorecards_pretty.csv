@@ -1,0 +1,13 @@
+Profile,Ticker,Company,MaxYear,WindowYears,WindowStartYear,Score_0to100,Rating,FCF/Rev_Avg,FCF/Rev_Min,EBIT/Rev_Avg,CapEx/Rev_Avg,MC/Rev,MC/FCF,Rev_CAGR,S_FCFMargin_Avg,S_FCFMargin_Min,S_EBITMargin_Avg,S_CapExOverRev_Avg,S_PS_Latest,S_PFCF_Latest,S_Rev_CAGR,SBC/Rev_Avg,S_SBCOverRev_Avg,EBIT/Rev_Min,S_EBITMargin_Min
+CYCLE,LITE,Lumentum Holdings Inc.,2024,5,2020,63,C,0.135,-0.080,-0.045,0.068,,,-0.079,3,5,2.333,3,,,1,,,,
+CYCLE,MU,"Micron Technology, Inc.",2024,5,2020,33,E,-0.050,-0.394,0.056,0.396,,,-0.032,1,1,3.667,1,,,2.333,,,,
+CYCLE,NVDA,NVIDIA CORP,2024,5,2020,100,A,,,0.216,,,,0.693,,,5,,,,5,,,,
+CYCLE,PLTR,Palantir Technologies Inc.,2024,5,2020,69,C,0.146,-0.283,-0.253,0.010,0.000,0.000,0.273,5,3,1,5,3,3,3.667,,,,
+SW,LITE,Lumentum Holdings Inc.,2024,5,2020,56,C,,,,0.068,,,-0.079,,,,3,,,1,0.073,3.667,,
+SW,MU,"Micron Technology, Inc.",2024,5,2020,26,E,,,,0.396,,,-0.032,,,,1,,,2.333,0.025,1,,
+SW,NVDA,NVIDIA CORP,2024,5,2020,68,C,,,,,,,0.693,,,,,,,5,0.049,2.333,,
+SW,PLTR,Palantir Technologies Inc.,2024,5,2020,91,A,,,,0.010,0.000,,0.273,,,,5,3,,3.667,0.484,5,,
+HW,LITE,Lumentum Holdings Inc.,2024,5,2020,71,B,,-0.080,,0.068,,,,,5,,3,,,,,,-0.319,3.667
+HW,MU,"Micron Technology, Inc.",2024,5,2020,70,B,,-0.394,,0.396,,,,,1,,5,,,,,,-0.370,2.333
+HW,NVDA,NVIDIA CORP,2024,5,2020,100,A,,,,,,,,,,,,,,,,,0.069,5
+HW,PLTR,Palantir Technologies Inc.,2024,5,2020,32,E,,-0.283,,0.010,,0.000,,,3,,1,,3,,,,-1.074,1
